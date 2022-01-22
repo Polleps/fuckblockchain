@@ -1,0 +1,6 @@
+export const enum Tracker {
+  BTC_VALUE = 'BTC_VALUE',
+  ETH_VALUE = 'ETH_VALUE',
+  BLOCKCHAIN_TREND = 'BLOCKCHAIN_TREND',
+  NFT_TREND = 'NFT_TREND',
+}
